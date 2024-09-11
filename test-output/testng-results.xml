@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-11T22:23:03 BDT" name="Default suite" finished-at="2024-09-11T22:23:11 BDT" duration-ms="8290">
+    <groups>
+    </groups>
+    <test started-at="2024-09-11T22:23:03 BDT" name="Default test" finished-at="2024-09-11T22:23:11 BDT" duration-ms="8290">
+      <class name="playwright_basic.com.StartFirefox">
+        <test-method is-config="true" signature="start()[pri:0, instance:playwright_basic.com.StartFirefox@1ed6388a]" started-at="2024-09-11T22:22:55 BDT" name="start" finished-at="2024-09-11T22:23:03 BDT" duration-ms="7726" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="URL()[pri:0, instance:playwright_basic.com.StartFirefox@1ed6388a]" started-at="2024-09-11T22:23:03 BDT" name="URL" finished-at="2024-09-11T22:23:11 BDT" duration-ms="8260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- URL -->
+        <test-method is-config="true" signature="close()[pri:0, instance:playwright_basic.com.StartFirefox@1ed6388a]" started-at="2024-09-11T22:23:11 BDT" name="close" finished-at="2024-09-11T22:23:11 BDT" duration-ms="570" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- playwright_basic.com.StartFirefox -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
